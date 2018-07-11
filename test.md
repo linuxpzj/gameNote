@@ -12,21 +12,21 @@ tags: 游戏,cocos,项目
  玩游戏是快乐的，开发游戏同样是快乐的，甚至更快乐，享受“造物主”的乐趣。
    
 13岁男孩Brayden Gogis在去年12月通过在线学习，自己开发了一款名为《Octopuz》的益智类游戏。
-![enter description here](./images/1531302121336.png)
+![enter description here](./images/1531331918973.png)
 
 苹果WWDC大会上，一位82岁的日本老奶奶若宫正子，是一名银行退休职员，成了全场最年长开发者。
-![enter description here](./images/1531302893113.png)
+![enter description here](./images/1531331948707.png)
 苹果公司CEO蒂姆·库克和若宫正子（右） 
 
 游戏程序员的巅峰-马库斯·泊松。《福布斯》杂志估算，泊松的私人财产将近10亿英镑(约合人民币98.4亿元)。泊松称巨额财富让他感受不到挑战，只有无尽的空虚。
-![enter description here](./images/1531303031992.png)
+![enter description here](./images/1531331991317.png)
 
 马库斯·泊松开发的我的世界
-![enter description here](./images/1531303197766.png)
+![enter description here](./images/1531332024144.png)
 ## 游戏开发只是一个技能
 去驾校学开车，不一定要当职业司机。研习《金刚经》，也不一定要当和尚。
 # 三、项目介绍
 我们准备致敬（模仿）经典游戏EL （漂泊）。
 EL在豌豆荚安卓市场可下载。
 
-![enter description here](./images/1531303616899.png)
+![enter description here](./images/1531332054431.png)
